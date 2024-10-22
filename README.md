@@ -5,4 +5,4 @@ HTML5 <br />
 Javascript <br />
 CSS
 
-![image] (https://github.com/rcaleroa/t-rex-game-chrome/blob/main/game-screen.jpg)
+![Image caption](https://github.com/rcaleroa/t-rex-game-chrome/blob/main/game-screen.jpg)
