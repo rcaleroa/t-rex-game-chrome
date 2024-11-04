@@ -1,4 +1,5 @@
 # t-rex-game-chrome
+Just coding and having fun
 Javascript web game t-rex google chrome
 
 HTML5 <br />
